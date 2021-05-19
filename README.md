@@ -5,7 +5,8 @@ source code [here](https://github.com/Kolton11/Final-Project/tree/main/src/Real_
 
 Executable file for [Windows64](https://github.com/Kolton11/Final-Project/blob/gh-pages/application.windows64.zip)
 
-Executable file for [MacOS](https://github.com/Kolton11/Final-Project/blob/gh-pages/application.macosx.zip)
+Executable file for [MacOSX](https://github.com/Kolton11/Final-Project/blob/gh-pages/application.macosx.zip)
+
 ![Pong_game](https://github.com/Kolton11/Final-Project/blob/gh-pages/Untitled%20Diagram%20(3).png)
 
 ![Pongame](https://github.com/Kolton11/Final-Project/blob/gh-pages/Untitled%20Diagram%20(1).png)
